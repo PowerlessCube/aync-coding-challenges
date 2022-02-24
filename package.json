@@ -1,0 +1,17 @@
+{
+  "name": "async-coding-challenges",
+  "version": "1.0.0",
+  "description": "playground for vanilla javascript and jest tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "author": "PowerlessCube",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^27.5.1"
+  }
+}
